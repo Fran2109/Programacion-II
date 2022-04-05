@@ -1,0 +1,11 @@
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_17_ListView\bin\Debug\Ejercicio_17_ListView.exe.config
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_17_ListView\bin\Debug\Ejercicio_17_ListView.exe
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_17_ListView\bin\Debug\Ejercicio_17_ListView.pdb
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_17_ListView\obj\Debug\Ejercicio_17_ListView.csproj.AssemblyReference.cache
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_17_ListView\obj\Debug\Ejercicio_17_ListView.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_17_ListView\obj\Debug\Ejercicio_17_ListView.Form1.resources
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_17_ListView\obj\Debug\Ejercicio_17_ListView.Properties.Resources.resources
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_17_ListView\obj\Debug\Ejercicio_17_ListView.csproj.GenerateResource.cache
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_17_ListView\obj\Debug\Ejercicio_17_ListView.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_17_ListView\obj\Debug\Ejercicio_17_ListView.exe
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_17_ListView\obj\Debug\Ejercicio_17_ListView.pdb

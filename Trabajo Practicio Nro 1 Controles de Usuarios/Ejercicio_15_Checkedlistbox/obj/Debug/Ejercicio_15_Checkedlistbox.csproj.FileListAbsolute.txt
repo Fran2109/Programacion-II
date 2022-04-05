@@ -1,0 +1,11 @@
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_15_Checkedlistbox\bin\Debug\Ejercicio_15_Checkedlistbox.exe.config
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_15_Checkedlistbox\bin\Debug\Ejercicio_15_Checkedlistbox.exe
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_15_Checkedlistbox\bin\Debug\Ejercicio_15_Checkedlistbox.pdb
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_15_Checkedlistbox\obj\Debug\Ejercicio_15_Checkedlistbox.csproj.AssemblyReference.cache
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_15_Checkedlistbox\obj\Debug\Ejercicio_15_Checkedlistbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_15_Checkedlistbox\obj\Debug\Ejercicio_15_Checkedlistbox.Properties.Resources.resources
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_15_Checkedlistbox\obj\Debug\Ejercicio_15_Checkedlistbox.csproj.GenerateResource.cache
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_15_Checkedlistbox\obj\Debug\Ejercicio_15_Checkedlistbox.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_15_Checkedlistbox\obj\Debug\Ejercicio_15_Checkedlistbox.exe
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_15_Checkedlistbox\obj\Debug\Ejercicio_15_Checkedlistbox.pdb
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_15_Checkedlistbox\obj\Debug\Ejercicio_15_Checkedlistbox.Form1.resources

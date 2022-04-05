@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_14_Linklabel", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_15_Checkedlistbox", "Ejercicio_15_Checkedlistbox\Ejercicio_15_Checkedlistbox.csproj", "{B657DF11-A3DC-4F31-9B2A-8A01C2DB9980}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_16_DateTimePicker", "Ejercicio_16_DateTimePicker\Ejercicio_16_DateTimePicker.csproj", "{035A907C-6E1F-4567-9448-6071494FA2F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_17_ListView", "Ejercicio_17_ListView\Ejercicio_17_ListView.csproj", "{A5F00DDC-E5A4-4417-91DB-377BD4C56523}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,14 @@ Global
 		{B657DF11-A3DC-4F31-9B2A-8A01C2DB9980}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B657DF11-A3DC-4F31-9B2A-8A01C2DB9980}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B657DF11-A3DC-4F31-9B2A-8A01C2DB9980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{035A907C-6E1F-4567-9448-6071494FA2F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{035A907C-6E1F-4567-9448-6071494FA2F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{035A907C-6E1F-4567-9448-6071494FA2F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{035A907C-6E1F-4567-9448-6071494FA2F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F00DDC-E5A4-4417-91DB-377BD4C56523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F00DDC-E5A4-4417-91DB-377BD4C56523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F00DDC-E5A4-4417-91DB-377BD4C56523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F00DDC-E5A4-4417-91DB-377BD4C56523}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

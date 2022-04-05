@@ -1,0 +1,11 @@
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_16_DateTimePicker\obj\Debug\Ejercicio_16_DateTimePicker.csproj.AssemblyReference.cache
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_16_DateTimePicker\obj\Debug\Ejercicio_16_DateTimePicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_16_DateTimePicker\obj\Debug\Ejercicio_16_DateTimePicker.Form1.resources
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_16_DateTimePicker\obj\Debug\Ejercicio_16_DateTimePicker.Properties.Resources.resources
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_16_DateTimePicker\obj\Debug\Ejercicio_16_DateTimePicker.csproj.GenerateResource.cache
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_16_DateTimePicker\obj\Debug\Ejercicio_16_DateTimePicker.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_16_DateTimePicker\bin\Debug\Ejercicio_16_DateTimePicker.exe.config
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_16_DateTimePicker\bin\Debug\Ejercicio_16_DateTimePicker.exe
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_16_DateTimePicker\bin\Debug\Ejercicio_16_DateTimePicker.pdb
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_16_DateTimePicker\obj\Debug\Ejercicio_16_DateTimePicker.exe
+C:\Users\Francisco Filosi\Desktop\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_16_DateTimePicker\obj\Debug\Ejercicio_16_DateTimePicker.pdb
