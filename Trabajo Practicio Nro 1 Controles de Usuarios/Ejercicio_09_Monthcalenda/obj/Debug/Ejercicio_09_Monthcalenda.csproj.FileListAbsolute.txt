@@ -1,0 +1,10 @@
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_09_Monthcalenda\bin\Debug\Ejercicio_09_Monthcalenda.exe.config
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_09_Monthcalenda\bin\Debug\Ejercicio_09_Monthcalenda.exe
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_09_Monthcalenda\bin\Debug\Ejercicio_09_Monthcalenda.pdb
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_09_Monthcalenda\obj\Debug\Ejercicio_09_Monthcalenda.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_09_Monthcalenda\obj\Debug\Ejercicio_09_Monthcalenda.Form1.resources
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_09_Monthcalenda\obj\Debug\Ejercicio_09_Monthcalenda.Properties.Resources.resources
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_09_Monthcalenda\obj\Debug\Ejercicio_09_Monthcalenda.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_09_Monthcalenda\obj\Debug\Ejercicio_09_Monthcalenda.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_09_Monthcalenda\obj\Debug\Ejercicio_09_Monthcalenda.exe
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_09_Monthcalenda\obj\Debug\Ejercicio_09_Monthcalenda.pdb

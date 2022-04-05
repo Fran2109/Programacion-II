@@ -1,0 +1,10 @@
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_07_Listbox\obj\Debug\Ejercicio_07_Listbox.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_07_Listbox\obj\Debug\Ejercicio_07_Listbox.Form1.resources
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_07_Listbox\obj\Debug\Ejercicio_07_Listbox.Properties.Resources.resources
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_07_Listbox\obj\Debug\Ejercicio_07_Listbox.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_07_Listbox\obj\Debug\Ejercicio_07_Listbox.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_07_Listbox\bin\Debug\Ejercicio_07_Listbox.exe.config
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_07_Listbox\bin\Debug\Ejercicio_07_Listbox.exe
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_07_Listbox\bin\Debug\Ejercicio_07_Listbox.pdb
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_07_Listbox\obj\Debug\Ejercicio_07_Listbox.exe
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_07_Listbox\obj\Debug\Ejercicio_07_Listbox.pdb

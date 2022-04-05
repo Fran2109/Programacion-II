@@ -1,0 +1,11 @@
+C:\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_14_Linklabel\bin\Debug\Ejercicio_14_Linklabel.exe.config
+C:\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_14_Linklabel\bin\Debug\Ejercicio_14_Linklabel.exe
+C:\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_14_Linklabel\bin\Debug\Ejercicio_14_Linklabel.pdb
+C:\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_14_Linklabel\obj\Debug\Ejercicio_14_Linklabel.csproj.AssemblyReference.cache
+C:\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_14_Linklabel\obj\Debug\Ejercicio_14_Linklabel.csproj.SuggestedBindingRedirects.cache
+C:\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_14_Linklabel\obj\Debug\Ejercicio_14_Linklabel.Form1.resources
+C:\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_14_Linklabel\obj\Debug\Ejercicio_14_Linklabel.Properties.Resources.resources
+C:\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_14_Linklabel\obj\Debug\Ejercicio_14_Linklabel.csproj.GenerateResource.cache
+C:\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_14_Linklabel\obj\Debug\Ejercicio_14_Linklabel.csproj.CoreCompileInputs.cache
+C:\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_14_Linklabel\obj\Debug\Ejercicio_14_Linklabel.exe
+C:\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_14_Linklabel\obj\Debug\Ejercicio_14_Linklabel.pdb

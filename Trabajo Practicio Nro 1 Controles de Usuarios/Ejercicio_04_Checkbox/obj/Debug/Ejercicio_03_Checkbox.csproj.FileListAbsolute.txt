@@ -1,0 +1,10 @@
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_03_Checkbox\bin\Debug\Ejercicio_03_Checkbox.exe.config
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_03_Checkbox\bin\Debug\Ejercicio_03_Checkbox.exe
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_03_Checkbox\bin\Debug\Ejercicio_03_Checkbox.pdb
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_03_Checkbox\obj\Debug\Ejercicio_03_Checkbox.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_03_Checkbox\obj\Debug\Ejercicio_03_Checkbox.Form1.resources
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_03_Checkbox\obj\Debug\Ejercicio_03_Checkbox.Properties.Resources.resources
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_03_Checkbox\obj\Debug\Ejercicio_03_Checkbox.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_03_Checkbox\obj\Debug\Ejercicio_03_Checkbox.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_03_Checkbox\obj\Debug\Ejercicio_03_Checkbox.exe
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_03_Checkbox\obj\Debug\Ejercicio_03_Checkbox.pdb

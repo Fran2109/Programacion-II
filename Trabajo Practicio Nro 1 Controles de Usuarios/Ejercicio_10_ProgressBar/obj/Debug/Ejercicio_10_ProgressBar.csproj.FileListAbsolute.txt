@@ -1,0 +1,11 @@
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_10_ProgressBar\bin\Debug\Ejercicio_10_ProgressBar.exe.config
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_10_ProgressBar\bin\Debug\Ejercicio_10_ProgressBar.exe
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_10_ProgressBar\bin\Debug\Ejercicio_10_ProgressBar.pdb
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_10_ProgressBar\obj\Debug\Ejercicio_10_ProgressBar.Form1.resources
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_10_ProgressBar\obj\Debug\Ejercicio_10_ProgressBar.Properties.Resources.resources
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_10_ProgressBar\obj\Debug\Ejercicio_10_ProgressBar.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_10_ProgressBar\obj\Debug\Ejercicio_10_ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_10_ProgressBar\obj\Debug\Ejercicio_10_ProgressBar.exe
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_10_ProgressBar\obj\Debug\Ejercicio_10_ProgressBar.pdb
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_10_ProgressBar\obj\Debug\Ejercicio_10_ProgressBar.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_10_ProgressBar\obj\Debug\Ejercicio_10_ProgressBar.csproj.SuggestedBindingRedirects.cache

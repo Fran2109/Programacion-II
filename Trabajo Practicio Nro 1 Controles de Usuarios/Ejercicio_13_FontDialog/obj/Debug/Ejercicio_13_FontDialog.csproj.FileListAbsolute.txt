@@ -1,0 +1,11 @@
+C:\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_13_FontDialog\bin\Debug\Ejercicio_13_FontDialog.exe.config
+C:\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_13_FontDialog\bin\Debug\Ejercicio_13_FontDialog.exe
+C:\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_13_FontDialog\bin\Debug\Ejercicio_13_FontDialog.pdb
+C:\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_13_FontDialog\obj\Debug\Ejercicio_13_FontDialog.csproj.AssemblyReference.cache
+C:\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_13_FontDialog\obj\Debug\Ejercicio_13_FontDialog.csproj.SuggestedBindingRedirects.cache
+C:\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_13_FontDialog\obj\Debug\Ejercicio_13_FontDialog.Form1.resources
+C:\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_13_FontDialog\obj\Debug\Ejercicio_13_FontDialog.Properties.Resources.resources
+C:\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_13_FontDialog\obj\Debug\Ejercicio_13_FontDialog.csproj.GenerateResource.cache
+C:\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_13_FontDialog\obj\Debug\Ejercicio_13_FontDialog.csproj.CoreCompileInputs.cache
+C:\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_13_FontDialog\obj\Debug\Ejercicio_13_FontDialog.exe
+C:\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_13_FontDialog\obj\Debug\Ejercicio_13_FontDialog.pdb

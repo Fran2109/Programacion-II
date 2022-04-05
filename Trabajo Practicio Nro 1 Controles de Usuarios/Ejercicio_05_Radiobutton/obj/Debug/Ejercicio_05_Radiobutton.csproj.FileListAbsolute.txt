@@ -1,0 +1,9 @@
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_05_Radiobutton\bin\Debug\Ejercicio_05_Radiobutton.exe.config
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_05_Radiobutton\bin\Debug\Ejercicio_05_Radiobutton.exe
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_05_Radiobutton\bin\Debug\Ejercicio_05_Radiobutton.pdb
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_05_Radiobutton\obj\Debug\Ejercicio_05_Radiobutton.Form1.resources
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_05_Radiobutton\obj\Debug\Ejercicio_05_Radiobutton.Properties.Resources.resources
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_05_Radiobutton\obj\Debug\Ejercicio_05_Radiobutton.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_05_Radiobutton\obj\Debug\Ejercicio_05_Radiobutton.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_05_Radiobutton\obj\Debug\Ejercicio_05_Radiobutton.exe
+C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_05_Radiobutton\obj\Debug\Ejercicio_05_Radiobutton.pdb
