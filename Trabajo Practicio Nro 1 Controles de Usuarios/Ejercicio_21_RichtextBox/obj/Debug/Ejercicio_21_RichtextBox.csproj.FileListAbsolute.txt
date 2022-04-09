@@ -1,0 +1,11 @@
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_21_RichtextBox\bin\Debug\Ejercicio_21_RichtextBox.exe.config
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_21_RichtextBox\bin\Debug\Ejercicio_21_RichtextBox.exe
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_21_RichtextBox\bin\Debug\Ejercicio_21_RichtextBox.pdb
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_21_RichtextBox\obj\Debug\Ejercicio_21_RichtextBox.csproj.AssemblyReference.cache
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_21_RichtextBox\obj\Debug\Ejercicio_21_RichtextBox.csproj.SuggestedBindingRedirects.cache
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_21_RichtextBox\obj\Debug\Ejercicio_21_RichtextBox.Form1.resources
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_21_RichtextBox\obj\Debug\Ejercicio_21_RichtextBox.Properties.Resources.resources
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_21_RichtextBox\obj\Debug\Ejercicio_21_RichtextBox.csproj.GenerateResource.cache
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_21_RichtextBox\obj\Debug\Ejercicio_21_RichtextBox.csproj.CoreCompileInputs.cache
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_21_RichtextBox\obj\Debug\Ejercicio_21_RichtextBox.exe
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_21_RichtextBox\obj\Debug\Ejercicio_21_RichtextBox.pdb

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C46A5393-BD3A-4B08-BB47-0B5D6EF8D445}</ProjectGuid>
+    <ProjectGuid>{280F32C1-FEE1-478D-98ED-A4ECE6492F9D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Ejercicio_18_NotifyIcon</RootNamespace>
     <AssemblyName>Ejercicio_18_NotifyIcon</AssemblyName>

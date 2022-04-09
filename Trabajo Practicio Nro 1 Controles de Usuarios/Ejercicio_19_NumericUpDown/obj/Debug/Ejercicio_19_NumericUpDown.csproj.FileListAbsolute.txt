@@ -1,0 +1,11 @@
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_19_NumericUpDown\bin\Debug\Ejercicio_19_NumericUpDown.exe.config
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_19_NumericUpDown\bin\Debug\Ejercicio_19_NumericUpDown.exe
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_19_NumericUpDown\bin\Debug\Ejercicio_19_NumericUpDown.pdb
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_19_NumericUpDown\obj\Debug\Ejercicio_19_NumericUpDown.csproj.AssemblyReference.cache
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_19_NumericUpDown\obj\Debug\Ejercicio_19_NumericUpDown.csproj.SuggestedBindingRedirects.cache
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_19_NumericUpDown\obj\Debug\Ejercicio_19_NumericUpDown.Form1.resources
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_19_NumericUpDown\obj\Debug\Ejercicio_19_NumericUpDown.Properties.Resources.resources
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_19_NumericUpDown\obj\Debug\Ejercicio_19_NumericUpDown.csproj.GenerateResource.cache
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_19_NumericUpDown\obj\Debug\Ejercicio_19_NumericUpDown.csproj.CoreCompileInputs.cache
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_19_NumericUpDown\obj\Debug\Ejercicio_19_NumericUpDown.exe
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_19_NumericUpDown\obj\Debug\Ejercicio_19_NumericUpDown.pdb

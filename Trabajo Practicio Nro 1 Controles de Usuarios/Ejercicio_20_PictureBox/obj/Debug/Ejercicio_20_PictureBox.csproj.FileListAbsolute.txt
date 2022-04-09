@@ -1,0 +1,11 @@
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_20_PictureBox\bin\Debug\Ejercicio_20_PictureBox.exe.config
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_20_PictureBox\bin\Debug\Ejercicio_20_PictureBox.exe
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_20_PictureBox\bin\Debug\Ejercicio_20_PictureBox.pdb
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_20_PictureBox\obj\Debug\Ejercicio_20_PictureBox.csproj.AssemblyReference.cache
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_20_PictureBox\obj\Debug\Ejercicio_20_PictureBox.csproj.SuggestedBindingRedirects.cache
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_20_PictureBox\obj\Debug\Ejercicio_20_PictureBox.Form1.resources
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_20_PictureBox\obj\Debug\Ejercicio_20_PictureBox.Properties.Resources.resources
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_20_PictureBox\obj\Debug\Ejercicio_20_PictureBox.csproj.GenerateResource.cache
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_20_PictureBox\obj\Debug\Ejercicio_20_PictureBox.csproj.CoreCompileInputs.cache
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_20_PictureBox\obj\Debug\Ejercicio_20_PictureBox.exe
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_20_PictureBox\obj\Debug\Ejercicio_20_PictureBox.pdb

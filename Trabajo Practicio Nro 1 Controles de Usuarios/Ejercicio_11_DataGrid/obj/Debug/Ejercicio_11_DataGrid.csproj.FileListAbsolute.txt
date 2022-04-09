@@ -9,3 +9,14 @@ C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Pra
 C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_11_DataGrid\obj\Debug\Ejercicio_11_DataGrid.csproj.CoreCompileInputs.cache
 C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_11_DataGrid\obj\Debug\Ejercicio_11_DataGrid.exe
 C:\Users\franc\OneDrive\Universidad\2-2 Programación II\Actividades\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_11_DataGrid\obj\Debug\Ejercicio_11_DataGrid.pdb
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_11_DataGrid\bin\Debug\Ejercicio_11_DataGrid.exe.config
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_11_DataGrid\bin\Debug\Ejercicio_11_DataGrid.exe
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_11_DataGrid\bin\Debug\Ejercicio_11_DataGrid.pdb
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_11_DataGrid\obj\Debug\Ejercicio_11_DataGrid.csproj.AssemblyReference.cache
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_11_DataGrid\obj\Debug\Ejercicio_11_DataGrid.csproj.SuggestedBindingRedirects.cache
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_11_DataGrid\obj\Debug\Ejercicio_11_DataGrid.Form1.resources
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_11_DataGrid\obj\Debug\Ejercicio_11_DataGrid.Properties.Resources.resources
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_11_DataGrid\obj\Debug\Ejercicio_11_DataGrid.csproj.GenerateResource.cache
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_11_DataGrid\obj\Debug\Ejercicio_11_DataGrid.csproj.CoreCompileInputs.cache
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_11_DataGrid\obj\Debug\Ejercicio_11_DataGrid.exe
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_11_DataGrid\obj\Debug\Ejercicio_11_DataGrid.pdb

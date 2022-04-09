@@ -1,0 +1,11 @@
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_18_NotifyIcon\bin\Debug\Ejercicio_18_NotifyIcon.exe.config
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_18_NotifyIcon\bin\Debug\Ejercicio_18_NotifyIcon.exe
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_18_NotifyIcon\bin\Debug\Ejercicio_18_NotifyIcon.pdb
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_18_NotifyIcon\obj\Debug\Ejercicio_18_NotifyIcon.csproj.AssemblyReference.cache
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_18_NotifyIcon\obj\Debug\Ejercicio_18_NotifyIcon.csproj.SuggestedBindingRedirects.cache
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_18_NotifyIcon\obj\Debug\Ejercicio_18_NotifyIcon.Form1.resources
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_18_NotifyIcon\obj\Debug\Ejercicio_18_NotifyIcon.Properties.Resources.resources
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_18_NotifyIcon\obj\Debug\Ejercicio_18_NotifyIcon.csproj.GenerateResource.cache
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_18_NotifyIcon\obj\Debug\Ejercicio_18_NotifyIcon.csproj.CoreCompileInputs.cache
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_18_NotifyIcon\obj\Debug\Ejercicio_18_NotifyIcon.exe
+E:\Programacion II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_18_NotifyIcon\obj\Debug\Ejercicio_18_NotifyIcon.pdb

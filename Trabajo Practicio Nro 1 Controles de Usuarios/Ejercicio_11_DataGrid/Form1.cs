@@ -67,18 +67,23 @@ namespace Ejercicio_11_DataGrid
                 Editar.Enabled = false;
             }
         }
-        int indice;
         private void Editar_Click(object sender, EventArgs e)
         {
-            Alumno alumnoEditar = new Alumno();
-            indice = lista.IndexOf(dataGridView1.SelectedRows[0].DataBoundItem as Alumno);
-            lista[indice].Nombre = Interaction.InputBox("Nombre: ");
-            lista[indice].Apellido = Interaction.InputBox("Apellido: ");
-            Mostrar();
+            try
+            {
+                Alumno alumnoEditar = dataGridView1.SelectedRows[0].DataBoundItem as Alumno;
+                string legajo = Interaction.InputBox("Nuevo Legajo: ", "Modificando", alumnoEditar.Legajo.ToString());
+                if(!Information.IsNumeric(legajo)) throw new Exception("El legajo ingresado no es numerico");
+                if(int.Parse(legajo) != alumnoEditar.Legajo)
+                    if (lista.Exists(x => x.Legajo == int.Parse(legajo))) throw new Exception("El legajo ingresado ya existe");
+                alumnoEditar.Legajo = int.Parse(legajo);
+                alumnoEditar.Nombre = Interaction.InputBox("Nuevo Nombre: ", "Modificando", alumnoEditar.Nombre);
+                alumnoEditar.Apellido = Interaction.InputBox("Nuevo Apellido: ", "Modificando", alumnoEditar.Apellido);
+                Mostrar();
+            }
+            catch (Exception ex) { MessageBox.Show(ex.Message); }
         }
     }
-
-
     public class Alumno
     {
         public int Legajo { get; set; }
