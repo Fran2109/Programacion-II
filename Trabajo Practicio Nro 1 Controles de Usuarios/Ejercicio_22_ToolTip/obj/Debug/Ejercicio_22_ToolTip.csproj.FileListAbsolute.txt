@@ -1,0 +1,11 @@
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_22_ToolTip\bin\Debug\Ejercicio_22_ToolTip.exe.config
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_22_ToolTip\bin\Debug\Ejercicio_22_ToolTip.exe
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_22_ToolTip\bin\Debug\Ejercicio_22_ToolTip.pdb
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_22_ToolTip\obj\Debug\Ejercicio_22_ToolTip.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_22_ToolTip\obj\Debug\Ejercicio_22_ToolTip.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_22_ToolTip\obj\Debug\Ejercicio_22_ToolTip.Form1.resources
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_22_ToolTip\obj\Debug\Ejercicio_22_ToolTip.Properties.Resources.resources
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_22_ToolTip\obj\Debug\Ejercicio_22_ToolTip.csproj.GenerateResource.cache
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_22_ToolTip\obj\Debug\Ejercicio_22_ToolTip.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_22_ToolTip\obj\Debug\Ejercicio_22_ToolTip.exe
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_22_ToolTip\obj\Debug\Ejercicio_22_ToolTip.pdb
