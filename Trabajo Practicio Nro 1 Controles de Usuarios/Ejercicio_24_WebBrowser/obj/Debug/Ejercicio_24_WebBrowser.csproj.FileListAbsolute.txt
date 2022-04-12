@@ -1,0 +1,11 @@
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_24_WebBrowser\bin\Debug\Ejercicio_24_WebBrowser.exe.config
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_24_WebBrowser\bin\Debug\Ejercicio_24_WebBrowser.exe
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_24_WebBrowser\bin\Debug\Ejercicio_24_WebBrowser.pdb
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_24_WebBrowser\obj\Debug\Ejercicio_24_WebBrowser.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_24_WebBrowser\obj\Debug\Ejercicio_24_WebBrowser.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_24_WebBrowser\obj\Debug\Ejercicio_24_WebBrowser.Form1.resources
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_24_WebBrowser\obj\Debug\Ejercicio_24_WebBrowser.Properties.Resources.resources
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_24_WebBrowser\obj\Debug\Ejercicio_24_WebBrowser.csproj.GenerateResource.cache
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_24_WebBrowser\obj\Debug\Ejercicio_24_WebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_24_WebBrowser\obj\Debug\Ejercicio_24_WebBrowser.exe
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_24_WebBrowser\obj\Debug\Ejercicio_24_WebBrowser.pdb
