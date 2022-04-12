@@ -1,0 +1,11 @@
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_26_FolderBrowseDialog\bin\Debug\Ejercicio_26_FolderBrowseDialog.exe.config
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_26_FolderBrowseDialog\bin\Debug\Ejercicio_26_FolderBrowseDialog.exe
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_26_FolderBrowseDialog\bin\Debug\Ejercicio_26_FolderBrowseDialog.pdb
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_26_FolderBrowseDialog\obj\Debug\Ejercicio_26_FolderBrowseDialog.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_26_FolderBrowseDialog\obj\Debug\Ejercicio_26_FolderBrowseDialog.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_26_FolderBrowseDialog\obj\Debug\Ejercicio_26_FolderBrowseDialog.Form1.resources
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_26_FolderBrowseDialog\obj\Debug\Ejercicio_26_FolderBrowseDialog.Properties.Resources.resources
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_26_FolderBrowseDialog\obj\Debug\Ejercicio_26_FolderBrowseDialog.csproj.GenerateResource.cache
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_26_FolderBrowseDialog\obj\Debug\Ejercicio_26_FolderBrowseDialog.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_26_FolderBrowseDialog\obj\Debug\Ejercicio_26_FolderBrowseDialog.exe
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_26_FolderBrowseDialog\obj\Debug\Ejercicio_26_FolderBrowseDialog.pdb

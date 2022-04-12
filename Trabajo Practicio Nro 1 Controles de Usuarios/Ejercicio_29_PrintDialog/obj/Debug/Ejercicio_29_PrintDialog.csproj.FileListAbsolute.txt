@@ -1,0 +1,11 @@
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_29_PrintDialog\bin\Debug\Ejercicio_29_PrintDialog.exe.config
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_29_PrintDialog\bin\Debug\Ejercicio_29_PrintDialog.exe
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_29_PrintDialog\bin\Debug\Ejercicio_29_PrintDialog.pdb
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_29_PrintDialog\obj\Debug\Ejercicio_29_PrintDialog.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_29_PrintDialog\obj\Debug\Ejercicio_29_PrintDialog.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_29_PrintDialog\obj\Debug\Ejercicio_29_PrintDialog.Form1.resources
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_29_PrintDialog\obj\Debug\Ejercicio_29_PrintDialog.Properties.Resources.resources
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_29_PrintDialog\obj\Debug\Ejercicio_29_PrintDialog.csproj.GenerateResource.cache
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_29_PrintDialog\obj\Debug\Ejercicio_29_PrintDialog.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_29_PrintDialog\obj\Debug\Ejercicio_29_PrintDialog.exe
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_29_PrintDialog\obj\Debug\Ejercicio_29_PrintDialog.pdb

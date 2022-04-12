@@ -1,0 +1,11 @@
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_28_SaveFileDialog\bin\Debug\Ejercicio_28_SaveFileDialog.exe.config
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_28_SaveFileDialog\bin\Debug\Ejercicio_28_SaveFileDialog.exe
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_28_SaveFileDialog\bin\Debug\Ejercicio_28_SaveFileDialog.pdb
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_28_SaveFileDialog\obj\Debug\Ejercicio_28_SaveFileDialog.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_28_SaveFileDialog\obj\Debug\Ejercicio_28_SaveFileDialog.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_28_SaveFileDialog\obj\Debug\Ejercicio_28_SaveFileDialog.Form1.resources
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_28_SaveFileDialog\obj\Debug\Ejercicio_28_SaveFileDialog.Properties.Resources.resources
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_28_SaveFileDialog\obj\Debug\Ejercicio_28_SaveFileDialog.csproj.GenerateResource.cache
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_28_SaveFileDialog\obj\Debug\Ejercicio_28_SaveFileDialog.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_28_SaveFileDialog\obj\Debug\Ejercicio_28_SaveFileDialog.exe
+C:\Users\franc\Desktop\Programacion-II\Trabajo Practicio Nro 1 Controles de Usuarios\Ejercicio_28_SaveFileDialog\obj\Debug\Ejercicio_28_SaveFileDialog.pdb
