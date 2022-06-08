@@ -7,7 +7,7 @@ Usamos SQL Server 2019 Version de desarrollador
 + Ado Desconenctado
 ##### Ado Conectado
 Variable del Tipo SqlConnection
-```ruby
+```dark
 SqlConnection conexion;
 conexion = new.SqlConnection("StringDeConexion");
 conexion.Open();
