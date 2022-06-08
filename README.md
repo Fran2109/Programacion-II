@@ -6,4 +6,15 @@ Usamos SQL Server 2019 Version de desarrollador
 + Ado Conectado
 + Ado Desconenctado
 ##### Ado Conectado
-Objeto Connection: 
+Variable del Tipo SqlConnection
+```ruby
+SqlConnection conexion;
+conexion = new.SqlConnection("StringDeConexion");
+conexion.Open();
+conexion.State(); //Para saber el estado
+conexion.Close();
+```
+Evento de Cambio de estado
+```ruby
+conexion.StateChange += CambioEstado;
+```
