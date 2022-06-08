@@ -17,4 +17,5 @@ conexion.Close();
 Evento de Cambio de estado
 ```ruby
 conexion.StateChange += CambioEstado;
+private void CambioEstado(object sender, StateChangeEventArgs e){ /*Que haga lo que quiera*/}
 ```
