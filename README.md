@@ -23,4 +23,27 @@ private void CambioEstado(object sender, StateChangeEventArgs e)
     else { MessageBox.Show("Desconectado"); } 
 }
 ```
-
+Objeto del Tipo SqlDataReader
+```csharp
+SqlDataReader lector;
+lector = new SqlDataReader();
+```
+Objeto del Tipo SqlCommand
+```csharp
+SqlCommand comando;
+comando = new SqlCommand("select * from personas", cx);
+```
+```csharp
+SqlDataReader lector;
+lector = new SqlDataReader();
+lector = comando.ExecuteReader();
+while(lector.Read())
+{
+    Cliente cliente = new Cliente() {
+            Legajo = int.Parse(lector.GetValues(0).toString()), 
+            Nombre = lector.GetValues(1).toString(),
+            Apellido = lector.GetValues(2).toString()
+        };
+    listaClientes.Add(cliente);
+}
+```
