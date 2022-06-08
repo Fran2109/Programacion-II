@@ -7,7 +7,7 @@ Usamos SQL Server 2019 Version de desarrollador
 + Ado Desconenctado
 ##### Ado Conectado
 Variable del Tipo SqlConnection
-```ruby
+```csharp
 SqlConnection conexion;
 conexion = new.SqlConnection("StringDeConexion");
 conexion.Open;
@@ -15,10 +15,12 @@ conexion.State; //Para saber el estado
 conexion.Close;
 ```
 Evento de Cambio de estado
-```ruby
+```csharp
 conexion.StateChange += CambioEstado;
 private void CambioEstado(object sender, StateChangeEventArgs e)
 {
-if(e.CurrentState == ConnectionState.Open) { MessageBox.Show("Conectado"); }
-else { MessageBox.Show("Desconectado"); } }
+    if(e.CurrentState == ConnectionState.Open) { MessageBox.Show("Conectado"); }
+    else { MessageBox.Show("Desconectado"); } 
+}
 ```
+
