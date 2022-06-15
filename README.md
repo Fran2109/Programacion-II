@@ -6,7 +6,7 @@ Usamos SQL Server 2019 Version de desarrollador
 + Ado Conectado
 + Ado Desconenctado
 ##### Ado Conectado
-Variable del Tipo SqlConnection
+Objeto del Tipo SqlConnection
 ```csharp
 SqlConnection conexion;
 conexion = new.SqlConnection("StringDeConexion");
