@@ -43,7 +43,7 @@ lector = new SqlDataReader();
 comando.CommandText = "select * from cliente order by Legajo";
 lector = comando.ExecuteReader();
 lista_clientes.Clear();
-while (lector.Read())
+while (lector.Read())//Esta es la funcion cargar lista
 {
 
     lista_clientes.Add(new Cliente()
@@ -53,12 +53,39 @@ while (lector.Read())
         Apellido = dr.GetValue(2).ToString()
     });
 }
+lector.Close();
 ```
-## Clase 15/06/2022
-### Ado Desconectado
-
+### Insert
+```csharp
+string legajo = Interaction.InputBox("Legajo: ");
+if (!Information.IsNumeric(legajo)) throw new Exception("Legajo Inválido");
+string nombre = Interaction.InputBox("Nombre: ");
+string apellido = Interaction.InputBox("Aoellido: ");
+comando.CommandText = $"insert into Cliente (Legajo,Nombre,Apellido) values ({int.Parse(legajo)},'{nombre}','{apellido}')";
+comando.ExecuteNonQuery();
+CargarLista();
+Mostrar(dataGridView1,lista_clientes);
+```
+### Update
+```csharp
+string legajo = Interaction.InputBox("Legajo: ");
+if (!Information.IsNumeric(legajo)) throw new Exception("Legajo Inválido");
+string nombre = Interaction.InputBox("Nombre: ");
+string apellido = Interaction.InputBox("Aoellido: ");
+comando.CommandText = $"insert into Cliente (Legajo,Nombre,Apellido) values ({int.Parse(legajo)},'{nombre}','{apellido}')";
+comando.ExecuteNonQuery();
+CargarLista();
+Mostrar(dataGridView1,lista_clientes);
+```
+### Delete
+```csharp
+comando.CommandText = $"delete from Cliente where Legajo={(dataGridView1.SelectedRows[0].DataBoundItem as Cliente).Legajo}";
+cm.ExecuteNonQuery();
+CargarLista();
+Mostrar(dataGridView1, lista_clientes);
+```
 ## Clase 22/06/2022
-### DataAdapter
+### Ado Desconectado
 ```csharp
 DataSet dataSet;
 SqlDataAdapter dataAdapter;
@@ -72,6 +99,7 @@ dataAdapter.UpdateCommand = commandBuilder.GetUpdateCommand();
 * Select
 ```csharp
 dataAdapter.Fill(dataSet);
+ds.Tables[0].PrimaryKey = new DataColumn[] { ds.Tables[0].Columns[0] }; //Seteo en memoria cual es la primary key para poder usar en el update, delete etc.
 dataGridView1.DataSource = null;dataGridView1.DataSource = dataSet.Tables[0];
 ```
 * Insert
@@ -82,7 +110,7 @@ string apellido = Interaction.InputBox("Apellido: ");
 DataRow dataRow = dataSet.Table[0].NewRow();
 dataRow.ItemArray = new object[] { int.Parse(legajo), nombre, apellido };
 dataSet.Table[0].Rows.Add(dataRow);
-dataAdapter.Update(dataSet); //No se usa el fill porque primero se actualiza en memoria y luego en la base lo que ace innecesario el fill.
+dataAdapter.Update(dataSet); //No se usa el fill porque primero se actualiza en memoria y luego en la base lo que hace innecesario el fill.
 dataGridView1.DataSource = null;dataGridView1.DataSource = dataSet.Tables[0];
 ```
 * Update
@@ -91,5 +119,8 @@ dataGridView1.DataSource = null;dataGridView1.DataSource = dataSet.Tables[0];
 ```
 * Delete
 ```csharp
-
+int legajo = int.Parse(dataGriedView1.SelectedRow[0].Cells[0].Value.ToString());
+(dataSet.Tables[0].Rows.Find(legajo)).Delete();
+dataAdapter.Update(dataSet);
+dataGridView1.DataSource = null;dataGridView1.DataSource = dataSet.Tables[0];
 ```
