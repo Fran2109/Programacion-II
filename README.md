@@ -129,3 +129,11 @@ int legajo = int.Parse(dataGriedView1.SelectedRow[0].Cells[0].Value.ToString());
 dataAdapter.Update(dataSet);
 dataGridView1.DataSource = null;dataGridView1.DataSource = dataSet.Tables[0];
 ```
+* Pendientes
+```csharp
+// Suponiendo que no se uso el dataAdapter.Update(dataSet); en ningun lado.
+// Es el mismo proceso para Deleted, Added, ModifiedCurrent;
+DataView dataView_insertados = new DataView(dataSet.Tables[0]);
+dataView_insertados.RowStateFilter = DataViewRowState.Added;
+dataGridView2.DataSource = null; dataGridView2.DataSource = dataView_insertados;
+```
