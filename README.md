@@ -38,7 +38,7 @@ Objeto del tipo SqlDataReader
 SqlDataReader lector;
 lector = new SqlDataReader();
 ```
-#### Select
+* Select
 ```csharp
 comando.CommandText = "select * from cliente order by Legajo";
 lector = comando.ExecuteReader();
@@ -55,7 +55,7 @@ while (lector.Read())//Esta es la funcion cargar lista
 }
 lector.Close();
 ```
-### Insert
+* Insert
 ```csharp
 string legajo = Interaction.InputBox("Legajo: ");
 if (!Information.IsNumeric(legajo)) throw new Exception("Legajo Inválido");
@@ -66,7 +66,7 @@ comando.ExecuteNonQuery();
 CargarLista();
 Mostrar(dataGridView1,lista_clientes);
 ```
-### Update
+* Update
 ```csharp
 string legajo = Interaction.InputBox("Legajo: ");
 if (!Information.IsNumeric(legajo)) throw new Exception("Legajo Inválido");
@@ -77,7 +77,7 @@ comando.ExecuteNonQuery();
 CargarLista();
 Mostrar(dataGridView1,lista_clientes);
 ```
-### Delete
+* Delete
 ```csharp
 comando.CommandText = $"delete from Cliente where Legajo={(dataGridView1.SelectedRows[0].DataBoundItem as Cliente).Legajo}";
 cm.ExecuteNonQuery();
