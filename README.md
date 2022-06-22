@@ -73,10 +73,16 @@ DataSet dataSet;
 SqlDataAdapter dataAdapter;
 dataSet = new SqlDataAdapter("select * from cliente", "Data Source=.;Initial Catalog=Personas;Integrated Security=True");
 dataAdapter = new DataSet();
-dataAdapter.fills(dataSet);
-dataGridView1.DataSource = null;dataGridView1.DataSource = dataSet.Tables[0];
-```csharp
+commandBuilder = new SqlCommandBuilder(dataAdapter);
+dataAdapter.InsertCommand = commandBuilder.GetInsertCommand();
+dataAdapter.DeleteCommand = commandBuilder.GetDeleteCommand();
+dataAdapter.UpdateCommand = commandBuilder.GetUpdateCommand();
+```
 * Select
+```csharp
+dataAdapter.fill(dataSet);
+dataGridView1.DataSource = null;dataGridView1.DataSource = dataSet.Tables[0];
+```
 * Insert
 * Update
 * Delete
