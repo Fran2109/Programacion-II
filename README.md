@@ -33,21 +33,12 @@ Objeto del Tipo SqlCommand
 SqlCommand comando;
 comando = new SqlCommand("select * from cliente order by Legajo", conexion);
 ```
+Objeto del tipo SqlDataReader
 ```csharp
 SqlDataReader lector;
 lector = new SqlDataReader();
-lector = comando.ExecuteReader();
-while(lector.Read())
-{
-    Cliente cliente = new Cliente() {
-            Legajo = int.Parse(lector.GetValues(0).toString()), 
-            Nombre = lector.GetValues(1).toString(),
-            Apellido = lector.GetValues(2).toString()
-        };
-    listaClientes.Add(cliente);
-}
 ```
-#### Read
+#### Select
 ```csharp
 comando.CommandText = "select * from cliente order by Legajo";
 lector = comando.ExecuteReader();
@@ -80,9 +71,25 @@ dataAdapter.UpdateCommand = commandBuilder.GetUpdateCommand();
 ```
 * Select
 ```csharp
-dataAdapter.fill(dataSet);
+dataAdapter.Fill(dataSet);
 dataGridView1.DataSource = null;dataGridView1.DataSource = dataSet.Tables[0];
 ```
 * Insert
+```csharp
+string legajo = Interaction.InputBox("Legajo: ");
+string nombre = Interaction.InputBox("Nombre: ");
+string apellido = Interaction.InputBox("Apellido: ");
+DataRow dataRow = dataSet.Table[0].NewRow();
+dataRow.ItemArray = new object[] { int.Parse(legajo), nombre, apellido };
+dataSet.Table[0].Rows.Add(dataRow);
+dataAdapter.Update(dataSet); //No se usa el fill porque primero se actualiza en memoria y luego en la base lo que ace innecesario el fill.
+dataGridView1.DataSource = null;dataGridView1.DataSource = dataSet.Tables[0];
+```
 * Update
+```csharp
+
+```
 * Delete
+```csharp
+
+```
