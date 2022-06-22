@@ -115,7 +115,12 @@ dataGridView1.DataSource = null;dataGridView1.DataSource = dataSet.Tables[0];
 ```
 * Update
 ```csharp
-
+int legajo = int.Parse(dataGriedView1.SelectedRow[0].Cells[0].Value.ToString());
+DataRow dataRow = dataSet.Tables[0].Rows.Find(legajo);
+dataRow.SetField<String>(1, Interaction.InputBox("Nombre", "", dataRow.ItemArray[1].ToString());
+dataRow.SetField<String>(2, Interaction.InputBox("Apellido", "", dataRow.ItemArray[2].ToString());
+dataAdapter.Update(dataSet);
+dataGridView1.DataSource = null;dataGridView1.DataSource = dataSet.Tables[0];
 ```
 * Delete
 ```csharp
