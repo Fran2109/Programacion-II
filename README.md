@@ -80,7 +80,7 @@ Mostrar(dataGridView1,lista_clientes);
 * Delete
 ```csharp
 comando.CommandText = $"delete from Cliente where Legajo={(dataGridView1.SelectedRows[0].DataBoundItem as Cliente).Legajo}";
-cm.ExecuteNonQuery();
+comando.ExecuteNonQuery();
 CargarLista();
 Mostrar(dataGridView1, lista_clientes);
 ```
