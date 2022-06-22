@@ -47,3 +47,5 @@ while(lector.Read())
     listaClientes.Add(cliente);
 }
 ```
+## Clase 15/06/2022
+## Clase 22/06/2022
