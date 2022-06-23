@@ -137,3 +137,14 @@ DataView dataView_insertados = new DataView(dataSet.Tables[0]);
 dataView_insertados.RowStateFilter = DataViewRowState.Added;
 dataGridView2.DataSource = null; dataGridView2.DataSource = dataView_insertados;
 ```
+### Extensiones
+```csharp
+string codigo = "1234-dgfr-34567/28/04/65";
+MessageBox.Show(codigo.ContarPartesCodigo().ToString());
+public static class MisExtensiones //Siempre tiene que ser static.
+{
+    public static int ContarPartesCodigo(this string str)
+    {
+        return str.Split(new char[] {"-"}.Count();
+    }
+}
