@@ -148,6 +148,7 @@ public static class MisExtensiones //Siempre tiene que ser static.
         return str.Split(new char[] {"-"}).Count();
     }
 }
+```
 ## Clase 29/06/2022
 Programacion en capas: apunta a dividir el programa en capas independientes del resto de las partes. Al modificar no es necesario modificar todo
 BE: Business Entities
