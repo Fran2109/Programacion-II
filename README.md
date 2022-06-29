@@ -145,6 +145,13 @@ public static class MisExtensiones //Siempre tiene que ser static.
 {
     public static int ContarPartesCodigo(this string str)
     {
-        return str.Split(new char[] {"-"}.Count();
+        return str.Split(new char[] {"-"}).Count();
     }
 }
+## Clase 29/06/2022
+Programacion en capas: apunta a dividir el programa en capas independientes del resto de las partes. Al modificar no es necesario modificar todo
+BE: Business Entities
+V: Vista
+Datos. -> DAO: Capa que hace acceso fisico al dato.  ORM: Capa de Mapeadores.
+BLL: Business Logical. 
+### ADO Desconectado con XML
