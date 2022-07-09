@@ -1,0 +1,10 @@
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Interfaces\Icomparer\Icomparer\bin\Debug\Icomparer.exe.config
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Interfaces\Icomparer\Icomparer\bin\Debug\Icomparer.exe
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Interfaces\Icomparer\Icomparer\bin\Debug\Icomparer.pdb
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Interfaces\Icomparer\Icomparer\obj\Debug\Icomparer.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Interfaces\Icomparer\Icomparer\obj\Debug\Icomparer.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Interfaces\Icomparer\Icomparer\obj\Debug\Icomparer.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Interfaces\Icomparer\Icomparer\obj\Debug\Icomparer.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Interfaces\Icomparer\Icomparer\obj\Debug\Icomparer.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Interfaces\Icomparer\Icomparer\obj\Debug\Icomparer.exe
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Interfaces\Icomparer\Icomparer\obj\Debug\Icomparer.pdb

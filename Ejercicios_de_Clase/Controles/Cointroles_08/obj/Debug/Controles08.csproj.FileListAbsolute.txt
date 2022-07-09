@@ -1,0 +1,9 @@
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Cointroles_08\bin\Debug\Cointroles_08.exe.config
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Cointroles_08\bin\Debug\Cointroles_08.exe
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Cointroles_08\bin\Debug\Cointroles_08.pdb
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Cointroles_08\obj\Debug\Cointroles_08.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Cointroles_08\obj\Debug\Cointroles_08.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Cointroles_08\obj\Debug\Controles08.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Cointroles_08\obj\Debug\Controles08.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Cointroles_08\obj\Debug\Cointroles_08.exe
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Cointroles_08\obj\Debug\Cointroles_08.pdb

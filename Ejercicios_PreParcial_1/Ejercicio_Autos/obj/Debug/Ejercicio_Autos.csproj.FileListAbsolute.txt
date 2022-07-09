@@ -1,0 +1,11 @@
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Autos\bin\Debug\Ejercicio_Autos.exe.config
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Autos\bin\Debug\Ejercicio_Autos.exe
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Autos\bin\Debug\Ejercicio_Autos.pdb
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Autos\obj\Debug\Ejercicio_Autos.csproj.AssemblyReference.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Autos\obj\Debug\Ejercicio_Autos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Autos\obj\Debug\Ejercicio_Autos.Form1.resources
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Autos\obj\Debug\Ejercicio_Autos.Properties.Resources.resources
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Autos\obj\Debug\Ejercicio_Autos.csproj.GenerateResource.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Autos\obj\Debug\Ejercicio_Autos.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Autos\obj\Debug\Ejercicio_Autos.exe
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Autos\obj\Debug\Ejercicio_Autos.pdb

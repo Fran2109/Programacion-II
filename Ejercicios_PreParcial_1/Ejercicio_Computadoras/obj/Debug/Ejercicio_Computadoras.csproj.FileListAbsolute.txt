@@ -1,0 +1,22 @@
+C:\Users\Francisco Filosi\OneDrive\Universidad\2-2 Programación II\Actividades\Ejercicios_PreParcial_1\Ejercicio_Computadoras\bin\Debug\Ejercicio_Computadoras.exe.config
+C:\Users\Francisco Filosi\OneDrive\Universidad\2-2 Programación II\Actividades\Ejercicios_PreParcial_1\Ejercicio_Computadoras\bin\Debug\Ejercicio_Computadoras.exe
+C:\Users\Francisco Filosi\OneDrive\Universidad\2-2 Programación II\Actividades\Ejercicios_PreParcial_1\Ejercicio_Computadoras\bin\Debug\Ejercicio_Computadoras.pdb
+C:\Users\Francisco Filosi\OneDrive\Universidad\2-2 Programación II\Actividades\Ejercicios_PreParcial_1\Ejercicio_Computadoras\obj\Debug\Ejercicio_Computadoras.csproj.AssemblyReference.cache
+C:\Users\Francisco Filosi\OneDrive\Universidad\2-2 Programación II\Actividades\Ejercicios_PreParcial_1\Ejercicio_Computadoras\obj\Debug\Ejercicio_Computadoras.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francisco Filosi\OneDrive\Universidad\2-2 Programación II\Actividades\Ejercicios_PreParcial_1\Ejercicio_Computadoras\obj\Debug\Ejercicio_Computadoras.Form1.resources
+C:\Users\Francisco Filosi\OneDrive\Universidad\2-2 Programación II\Actividades\Ejercicios_PreParcial_1\Ejercicio_Computadoras\obj\Debug\Ejercicio_Computadoras.Properties.Resources.resources
+C:\Users\Francisco Filosi\OneDrive\Universidad\2-2 Programación II\Actividades\Ejercicios_PreParcial_1\Ejercicio_Computadoras\obj\Debug\Ejercicio_Computadoras.csproj.GenerateResource.cache
+C:\Users\Francisco Filosi\OneDrive\Universidad\2-2 Programación II\Actividades\Ejercicios_PreParcial_1\Ejercicio_Computadoras\obj\Debug\Ejercicio_Computadoras.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Filosi\OneDrive\Universidad\2-2 Programación II\Actividades\Ejercicios_PreParcial_1\Ejercicio_Computadoras\obj\Debug\Ejercicio_Computadoras.exe
+C:\Users\Francisco Filosi\OneDrive\Universidad\2-2 Programación II\Actividades\Ejercicios_PreParcial_1\Ejercicio_Computadoras\obj\Debug\Ejercicio_Computadoras.pdb
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Computadoras\bin\Debug\Ejercicio_Computadoras.exe.config
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Computadoras\bin\Debug\Ejercicio_Computadoras.exe
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Computadoras\bin\Debug\Ejercicio_Computadoras.pdb
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Computadoras\obj\Debug\Ejercicio_Computadoras.csproj.AssemblyReference.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Computadoras\obj\Debug\Ejercicio_Computadoras.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Computadoras\obj\Debug\Ejercicio_Computadoras.Form1.resources
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Computadoras\obj\Debug\Ejercicio_Computadoras.Properties.Resources.resources
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Computadoras\obj\Debug\Ejercicio_Computadoras.csproj.GenerateResource.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Computadoras\obj\Debug\Ejercicio_Computadoras.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Computadoras\obj\Debug\Ejercicio_Computadoras.exe
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Computadoras\obj\Debug\Ejercicio_Computadoras.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dario Cardacci\source\repos\Clases_01\Eventos_01\bin\Debug\Eventos_01.exe.config
+C:\Users\Dario Cardacci\source\repos\Clases_01\Eventos_01\bin\Debug\Eventos_01.exe
+C:\Users\Dario Cardacci\source\repos\Clases_01\Eventos_01\bin\Debug\Eventos_01.pdb
+C:\Users\Dario Cardacci\source\repos\Clases_01\Eventos_01\obj\Debug\Eventos_01.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\Clases_01\Eventos_01\obj\Debug\Eventos_01.Form1.resources
+C:\Users\Dario Cardacci\source\repos\Clases_01\Eventos_01\obj\Debug\Eventos_01.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\Clases_01\Eventos_01\obj\Debug\Eventos_01.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\Clases_01\Eventos_01\obj\Debug\Eventos_01.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\Clases_01\Eventos_01\obj\Debug\Eventos_01.exe
+C:\Users\Dario Cardacci\source\repos\Clases_01\Eventos_01\obj\Debug\Eventos_01.pdb

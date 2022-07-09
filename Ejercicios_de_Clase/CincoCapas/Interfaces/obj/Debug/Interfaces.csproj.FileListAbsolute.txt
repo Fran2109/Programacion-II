@@ -1,0 +1,12 @@
+C:\Users\Dario Cardacci\source\repos\2021_2C\LUG_2A_TM\CincoCapas\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Dario Cardacci\source\repos\2021_2C\LUG_2A_TM\CincoCapas\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Dario Cardacci\source\repos\2021_2C\LUG_2A_TM\CincoCapas\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2021_2C\LUG_2A_TM\CincoCapas\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Dario Cardacci\source\repos\2021_2C\LUG_2A_TM\CincoCapas\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Dario Cardacci\source\repos\2021_2C\LUG_2A_TM\CincoCapas\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2022\Verano\LUG\CincoCapas\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Dario Cardacci\source\repos\2022\Verano\LUG\CincoCapas\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Dario Cardacci\source\repos\2022\Verano\LUG\CincoCapas\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2022\Verano\LUG\CincoCapas\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2022\Verano\LUG\CincoCapas\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Dario Cardacci\source\repos\2022\Verano\LUG\CincoCapas\Interfaces\obj\Debug\Interfaces.pdb

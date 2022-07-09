@@ -1,0 +1,10 @@
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Controles03\bin\Debug\Controles03.exe.config
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Controles03\bin\Debug\Controles03.exe
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Controles03\bin\Debug\Controles03.pdb
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Controles03\obj\Debug\Controles03.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Controles03\obj\Debug\Controles03.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Controles03\obj\Debug\Controles03.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Controles03\obj\Debug\Controles03.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Controles03\obj\Debug\Controles03.exe
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Controles03\obj\Debug\Controles03.pdb
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Controles03\obj\Debug\Controles03.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Dario Cardacci\source\repos\2022\1C\On_Line_POO_2A_TT\Clases\EjemploClaseVista\bin\Debug\EjemploClaseVista.exe.config
+C:\Users\Dario Cardacci\source\repos\2022\1C\On_Line_POO_2A_TT\Clases\EjemploClaseVista\bin\Debug\EjemploClaseVista.exe
+C:\Users\Dario Cardacci\source\repos\2022\1C\On_Line_POO_2A_TT\Clases\EjemploClaseVista\bin\Debug\EjemploClaseVista.pdb
+C:\Users\Dario Cardacci\source\repos\2022\1C\On_Line_POO_2A_TT\Clases\EjemploClaseVista\obj\Debug\EjemploClaseVista.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\On_Line_POO_2A_TT\Clases\EjemploClaseVista\obj\Debug\EjemploClaseVista.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2022\1C\On_Line_POO_2A_TT\Clases\EjemploClaseVista\obj\Debug\EjemploClaseVista.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2022\1C\On_Line_POO_2A_TT\Clases\EjemploClaseVista\obj\Debug\EjemploClaseVista.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\On_Line_POO_2A_TT\Clases\EjemploClaseVista\obj\Debug\EjemploClaseVista.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\On_Line_POO_2A_TT\Clases\EjemploClaseVista\obj\Debug\EjemploClaseVista.exe
+C:\Users\Dario Cardacci\source\repos\2022\1C\On_Line_POO_2A_TT\Clases\EjemploClaseVista\obj\Debug\EjemploClaseVista.pdb

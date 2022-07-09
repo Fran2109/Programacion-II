@@ -1,0 +1,10 @@
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Controles06\bin\Debug\Controles06.exe.config
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Controles06\bin\Debug\Controles06.exe
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Controles06\bin\Debug\Controles06.pdb
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Controles06\obj\Debug\Controles06.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Controles06\obj\Debug\Controles06.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Controles06\obj\Debug\Controles06.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Controles06\obj\Debug\Controles06.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Controles06\obj\Debug\Controles06.exe
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Controles06\obj\Debug\Controles06.pdb
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Controles\Controles06\obj\Debug\Controles06.csproj.AssemblyReference.cache

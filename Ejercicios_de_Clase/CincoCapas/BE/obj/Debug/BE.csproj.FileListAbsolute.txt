@@ -1,0 +1,12 @@
+C:\Users\Dario Cardacci\source\repos\2021_2C\LUG_2A_TM\CincoCapas\BE\bin\Debug\BE.dll
+C:\Users\Dario Cardacci\source\repos\2021_2C\LUG_2A_TM\CincoCapas\BE\bin\Debug\BE.pdb
+C:\Users\Dario Cardacci\source\repos\2021_2C\LUG_2A_TM\CincoCapas\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2021_2C\LUG_2A_TM\CincoCapas\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2021_2C\LUG_2A_TM\CincoCapas\BE\obj\Debug\BE.dll
+C:\Users\Dario Cardacci\source\repos\2021_2C\LUG_2A_TM\CincoCapas\BE\obj\Debug\BE.pdb
+C:\Users\Dario Cardacci\source\repos\2022\Verano\LUG\CincoCapas\BE\bin\Debug\BE.dll
+C:\Users\Dario Cardacci\source\repos\2022\Verano\LUG\CincoCapas\BE\bin\Debug\BE.pdb
+C:\Users\Dario Cardacci\source\repos\2022\Verano\LUG\CincoCapas\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2022\Verano\LUG\CincoCapas\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2022\Verano\LUG\CincoCapas\BE\obj\Debug\BE.dll
+C:\Users\Dario Cardacci\source\repos\2022\Verano\LUG\CincoCapas\BE\obj\Debug\BE.pdb

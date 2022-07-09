@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba Tirar", "Prueba Tirar\Prueba Tirar.csproj", "{C2CA5CEC-2CC5-4332-A0EA-4A63F5F8E051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2CA5CEC-2CC5-4332-A0EA-4A63F5F8E051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2CA5CEC-2CC5-4332-A0EA-4A63F5F8E051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2CA5CEC-2CC5-4332-A0EA-4A63F5F8E051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2CA5CEC-2CC5-4332-A0EA-4A63F5F8E051}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D40A6558-77AD-485E-93C0-0C543EF53D2C}
+	EndGlobalSection
+EndGlobal

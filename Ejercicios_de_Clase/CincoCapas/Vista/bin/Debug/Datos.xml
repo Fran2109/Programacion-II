@@ -1,0 +1,150 @@
+<?xml version="1.0" standalone="yes"?>
+<Datos>
+  <xs:schema id="Datos" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="Datos" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Prestamo">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Codigo" type="xs:string" />
+                <xs:element name="MontoOtorgado" type="xs:decimal" minOccurs="0" />
+                <xs:element name="FechaOtorgado" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Interes" type="xs:decimal" minOccurs="0" />
+                <xs:element name="InteresPunitorio" type="xs:decimal" minOccurs="0" />
+                <xs:element name="FechaVencimiento" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="FechaDevolucion" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="MontoDevuelto" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DNI" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="Persona">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="DNI" type="xs:string" />
+                <xs:element name="Nombre" type="xs:string" minOccurs="0" />
+                <xs:element name="Apellido" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+      <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//Prestamo" />
+        <xs:field xpath="Codigo" />
+      </xs:unique>
+      <xs:unique name="Persona_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//Persona" />
+        <xs:field xpath="DNI" />
+      </xs:unique>
+    </xs:element>
+  </xs:schema>
+  <Prestamo>
+    <Codigo>02</Codigo>
+    <MontoOtorgado>10000</MontoOtorgado>
+    <FechaOtorgado>2021-09-14T11:40:24-03:00</FechaOtorgado>
+    <Interes>10</Interes>
+    <InteresPunitorio>4</InteresPunitorio>
+    <FechaVencimiento>2021-09-16T11:40:24-03:00</FechaVencimiento>
+    <FechaDevolucion>0001-01-01T00:00:00-03:00</FechaDevolucion>
+    <MontoDevuelto>0</MontoDevuelto>
+    <DNI>23.456.789</DNI>
+  </Prestamo>
+  <Prestamo>
+    <Codigo>03</Codigo>
+    <MontoOtorgado>3000</MontoOtorgado>
+    <FechaOtorgado>2022-02-25T00:00:00-03:00</FechaOtorgado>
+    <Interes>5</Interes>
+    <InteresPunitorio>6</InteresPunitorio>
+    <FechaVencimiento>2021-09-16T11:45:48-03:00</FechaVencimiento>
+    <FechaDevolucion>0001-01-01T00:00:00-03:00</FechaDevolucion>
+    <MontoDevuelto>0</MontoDevuelto>
+    <DNI>34.654.432</DNI>
+  </Prestamo>
+  <Prestamo>
+    <Codigo>04</Codigo>
+    <MontoOtorgado>4000</MontoOtorgado>
+    <FechaOtorgado>2021-09-14T12:14:43.2673752-03:00</FechaOtorgado>
+    <Interes>5</Interes>
+    <InteresPunitorio>6</InteresPunitorio>
+    <FechaVencimiento>2021-09-25T12:14:43-03:00</FechaVencimiento>
+    <FechaDevolucion>0001-01-01T00:00:00-03:00</FechaDevolucion>
+    <MontoDevuelto>0</MontoDevuelto>
+    <DNI>00.999.555</DNI>
+  </Prestamo>
+  <Prestamo>
+    <Codigo>10</Codigo>
+    <MontoOtorgado>1000</MontoOtorgado>
+    <FechaOtorgado>2021-09-21T13:05:43.7690571-03:00</FechaOtorgado>
+    <Interes>1</Interes>
+    <InteresPunitorio>1</InteresPunitorio>
+    <FechaVencimiento>2021-09-24T13:05:43-03:00</FechaVencimiento>
+    <FechaDevolucion>0001-01-01T00:00:00-03:00</FechaDevolucion>
+    <MontoDevuelto>0</MontoDevuelto>
+    <DNI>00.000.000</DNI>
+  </Prestamo>
+  <Prestamo>
+    <Codigo>11</Codigo>
+    <MontoOtorgado>2000</MontoOtorgado>
+    <FechaOtorgado>2021-09-21T13:10:09.0209601-03:00</FechaOtorgado>
+    <Interes>1</Interes>
+    <InteresPunitorio>1</InteresPunitorio>
+    <FechaVencimiento>2021-09-18T13:10:08-03:00</FechaVencimiento>
+    <FechaDevolucion>0001-01-01T00:00:00-03:00</FechaDevolucion>
+    <MontoDevuelto>0</MontoDevuelto>
+    <DNI>00.000.000</DNI>
+  </Prestamo>
+  <Prestamo>
+    <Codigo>12</Codigo>
+    <MontoOtorgado>9999</MontoOtorgado>
+    <FechaOtorgado>2022-02-01T20:56:27-03:00</FechaOtorgado>
+    <Interes>10</Interes>
+    <InteresPunitorio>2</InteresPunitorio>
+    <FechaVencimiento>2022-02-20T20:56:27-03:00</FechaVencimiento>
+    <FechaDevolucion>0001-01-01T00:00:00-03:00</FechaDevolucion>
+    <MontoDevuelto>0</MontoDevuelto>
+    <DNI>11.111.111</DNI>
+  </Prestamo>
+  <Prestamo>
+    <Codigo>13</Codigo>
+    <MontoOtorgado>99999</MontoOtorgado>
+    <FechaOtorgado>2022-02-03T21:00:25-03:00</FechaOtorgado>
+    <Interes>1</Interes>
+    <InteresPunitorio>2</InteresPunitorio>
+    <FechaVencimiento>2022-02-26T21:00:25-03:00</FechaVencimiento>
+    <FechaDevolucion>0001-01-01T00:00:00-03:00</FechaDevolucion>
+    <MontoDevuelto>0</MontoDevuelto>
+    <DNI>11.111.111</DNI>
+  </Prestamo>
+  <Persona>
+    <DNI>20.999.111</DNI>
+    <Nombre>Ana</Nombre>
+    <Apellido>Garcia</Apellido>
+  </Persona>
+  <Persona>
+    <DNI>23.456.789</DNI>
+    <Nombre>Ana</Nombre>
+    <Apellido>Perez</Apellido>
+  </Persona>
+  <Persona>
+    <DNI>34.654.432</DNI>
+    <Nombre>Sol</Nombre>
+    <Apellido>Martinez</Apellido>
+  </Persona>
+  <Persona>
+    <DNI>00.999.555</DNI>
+    <Nombre>Cecilia</Nombre>
+    <Apellido>Mestre</Apellido>
+  </Persona>
+  <Persona>
+    <DNI>00.000.000</DNI>
+    <Nombre>Ana</Nombre>
+    <Apellido>ApAna</Apellido>
+  </Persona>
+  <Persona>
+    <DNI>11.111.111</DNI>
+    <Nombre>Soledad</Nombre>
+    <Apellido>Garcia</Apellido>
+  </Persona>
+</Datos>

@@ -1,0 +1,10 @@
+C:\Users\Dario Cardacci\source\repos\2022\1C\POO_2A_TM\Clases\EjercicioBanco\bin\Debug\EjercicioBanco.exe.config
+C:\Users\Dario Cardacci\source\repos\2022\1C\POO_2A_TM\Clases\EjercicioBanco\bin\Debug\EjercicioBanco.exe
+C:\Users\Dario Cardacci\source\repos\2022\1C\POO_2A_TM\Clases\EjercicioBanco\bin\Debug\EjercicioBanco.pdb
+C:\Users\Dario Cardacci\source\repos\2022\1C\POO_2A_TM\Clases\EjercicioBanco\obj\Debug\EjercicioBanco.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\POO_2A_TM\Clases\EjercicioBanco\obj\Debug\EjercicioBanco.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2022\1C\POO_2A_TM\Clases\EjercicioBanco\obj\Debug\EjercicioBanco.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2022\1C\POO_2A_TM\Clases\EjercicioBanco\obj\Debug\EjercicioBanco.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\POO_2A_TM\Clases\EjercicioBanco\obj\Debug\EjercicioBanco.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\POO_2A_TM\Clases\EjercicioBanco\obj\Debug\EjercicioBanco.exe
+C:\Users\Dario Cardacci\source\repos\2022\1C\POO_2A_TM\Clases\EjercicioBanco\obj\Debug\EjercicioBanco.pdb

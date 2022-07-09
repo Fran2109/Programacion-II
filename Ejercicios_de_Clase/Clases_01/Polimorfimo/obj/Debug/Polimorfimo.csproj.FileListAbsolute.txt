@@ -1,0 +1,10 @@
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Clases_01\Polimorfimo\bin\Debug\Polimorfimo.exe.config
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Clases_01\Polimorfimo\bin\Debug\Polimorfimo.exe
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Clases_01\Polimorfimo\bin\Debug\Polimorfimo.pdb
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Clases_01\Polimorfimo\obj\Debug\Polimorfimo.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Clases_01\Polimorfimo\obj\Debug\Polimorfimo.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Clases_01\Polimorfimo\obj\Debug\Polimorfimo.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Clases_01\Polimorfimo\obj\Debug\Polimorfimo.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Clases_01\Polimorfimo\obj\Debug\Polimorfimo.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Clases_01\Polimorfimo\obj\Debug\Polimorfimo.exe
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\Clases_01\Polimorfimo\obj\Debug\Polimorfimo.pdb

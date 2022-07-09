@@ -1,0 +1,10 @@
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\1Parcial\1Parcial\bin\Debug\1Parcial.exe.config
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\1Parcial\1Parcial\bin\Debug\1Parcial.exe
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\1Parcial\1Parcial\bin\Debug\1Parcial.pdb
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\1Parcial\1Parcial\obj\Debug\1Parcial.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\1Parcial\1Parcial\obj\Debug\_1Parcial.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\1Parcial\1Parcial\obj\Debug\_1Parcial.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\1Parcial\1Parcial\obj\Debug\1Parcial.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\1Parcial\1Parcial\obj\Debug\1Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\1Parcial\1Parcial\obj\Debug\1Parcial.exe
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\1Parcial\1Parcial\obj\Debug\1Parcial.pdb

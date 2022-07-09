@@ -1,0 +1,30 @@
+C:\Users\Dario Cardacci\source\repos\Prueba Tirar\Prueba Tirar\bin\Debug\Prueba Tirar.exe.config
+C:\Users\Dario Cardacci\source\repos\Prueba Tirar\Prueba Tirar\bin\Debug\Prueba Tirar.exe
+C:\Users\Dario Cardacci\source\repos\Prueba Tirar\Prueba Tirar\bin\Debug\Prueba Tirar.pdb
+C:\Users\Dario Cardacci\source\repos\Prueba Tirar\Prueba Tirar\obj\Debug\Prueba Tirar.csprojAssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\Prueba Tirar\Prueba Tirar\obj\Debug\Prueba_Tirar.Form1.resources
+C:\Users\Dario Cardacci\source\repos\Prueba Tirar\Prueba Tirar\obj\Debug\Prueba_Tirar.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\Prueba Tirar\Prueba Tirar\obj\Debug\Prueba Tirar.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\Prueba Tirar\Prueba Tirar\obj\Debug\Prueba Tirar.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\Prueba Tirar\Prueba Tirar\obj\Debug\Prueba Tirar.exe
+C:\Users\Dario Cardacci\source\repos\Prueba Tirar\Prueba Tirar\obj\Debug\Prueba Tirar.pdb
+C:\Users\Dario Cardacci\source\repos\DataGridViewConTipoAnonimo\Prueba Tirar\bin\Debug\Prueba Tirar.exe.config
+C:\Users\Dario Cardacci\source\repos\DataGridViewConTipoAnonimo\Prueba Tirar\bin\Debug\Prueba Tirar.exe
+C:\Users\Dario Cardacci\source\repos\DataGridViewConTipoAnonimo\Prueba Tirar\bin\Debug\Prueba Tirar.pdb
+C:\Users\Dario Cardacci\source\repos\DataGridViewConTipoAnonimo\Prueba Tirar\obj\Debug\Prueba_Tirar.Form1.resources
+C:\Users\Dario Cardacci\source\repos\DataGridViewConTipoAnonimo\Prueba Tirar\obj\Debug\Prueba_Tirar.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\DataGridViewConTipoAnonimo\Prueba Tirar\obj\Debug\Prueba Tirar.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\DataGridViewConTipoAnonimo\Prueba Tirar\obj\Debug\Prueba Tirar.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\DataGridViewConTipoAnonimo\Prueba Tirar\obj\Debug\Prueba Tirar.exe
+C:\Users\Dario Cardacci\source\repos\DataGridViewConTipoAnonimo\Prueba Tirar\obj\Debug\Prueba Tirar.pdb
+C:\Users\Dario Cardacci\source\repos\DataGridViewConTipoAnonimo\Prueba Tirar\obj\Debug\Prueba Tirar.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\DataGridViewConTipoAnonimo\Prueba Tirar\bin\Debug\Prueba Tirar.exe.config
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\DataGridViewConTipoAnonimo\Prueba Tirar\bin\Debug\Prueba Tirar.exe
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\DataGridViewConTipoAnonimo\Prueba Tirar\bin\Debug\Prueba Tirar.pdb
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\DataGridViewConTipoAnonimo\Prueba Tirar\obj\Debug\Prueba Tirar.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\DataGridViewConTipoAnonimo\Prueba Tirar\obj\Debug\Prueba_Tirar.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\DataGridViewConTipoAnonimo\Prueba Tirar\obj\Debug\Prueba_Tirar.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\DataGridViewConTipoAnonimo\Prueba Tirar\obj\Debug\Prueba Tirar.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\DataGridViewConTipoAnonimo\Prueba Tirar\obj\Debug\Prueba Tirar.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\DataGridViewConTipoAnonimo\Prueba Tirar\obj\Debug\Prueba Tirar.exe
+C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\DataGridViewConTipoAnonimo\Prueba Tirar\obj\Debug\Prueba Tirar.pdb

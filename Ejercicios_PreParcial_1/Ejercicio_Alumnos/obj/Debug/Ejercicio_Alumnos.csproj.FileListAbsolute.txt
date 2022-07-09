@@ -1,0 +1,22 @@
+C:\Users\Francisco Filosi\OneDrive\Universidad\2-2 Programación II\Actividades\EJercicios_PreParcial_1\Ejercicio_Alumnos\bin\Debug\Ejercicio_Alumnos.exe.config
+C:\Users\Francisco Filosi\OneDrive\Universidad\2-2 Programación II\Actividades\EJercicios_PreParcial_1\Ejercicio_Alumnos\bin\Debug\Ejercicio_Alumnos.exe
+C:\Users\Francisco Filosi\OneDrive\Universidad\2-2 Programación II\Actividades\EJercicios_PreParcial_1\Ejercicio_Alumnos\bin\Debug\Ejercicio_Alumnos.pdb
+C:\Users\Francisco Filosi\OneDrive\Universidad\2-2 Programación II\Actividades\EJercicios_PreParcial_1\Ejercicio_Alumnos\obj\Debug\Ejercicio_Alumnos.csproj.AssemblyReference.cache
+C:\Users\Francisco Filosi\OneDrive\Universidad\2-2 Programación II\Actividades\EJercicios_PreParcial_1\Ejercicio_Alumnos\obj\Debug\Ejercicio_Alumnos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francisco Filosi\OneDrive\Universidad\2-2 Programación II\Actividades\EJercicios_PreParcial_1\Ejercicio_Alumnos\obj\Debug\Ejercicio_Alumnos.Form1.resources
+C:\Users\Francisco Filosi\OneDrive\Universidad\2-2 Programación II\Actividades\EJercicios_PreParcial_1\Ejercicio_Alumnos\obj\Debug\Ejercicio_Alumnos.Properties.Resources.resources
+C:\Users\Francisco Filosi\OneDrive\Universidad\2-2 Programación II\Actividades\EJercicios_PreParcial_1\Ejercicio_Alumnos\obj\Debug\Ejercicio_Alumnos.csproj.GenerateResource.cache
+C:\Users\Francisco Filosi\OneDrive\Universidad\2-2 Programación II\Actividades\EJercicios_PreParcial_1\Ejercicio_Alumnos\obj\Debug\Ejercicio_Alumnos.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Filosi\OneDrive\Universidad\2-2 Programación II\Actividades\EJercicios_PreParcial_1\Ejercicio_Alumnos\obj\Debug\Ejercicio_Alumnos.exe
+C:\Users\Francisco Filosi\OneDrive\Universidad\2-2 Programación II\Actividades\EJercicios_PreParcial_1\Ejercicio_Alumnos\obj\Debug\Ejercicio_Alumnos.pdb
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Alumnos\bin\Debug\Ejercicio_Alumnos.exe.config
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Alumnos\bin\Debug\Ejercicio_Alumnos.exe
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Alumnos\bin\Debug\Ejercicio_Alumnos.pdb
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Alumnos\obj\Debug\Ejercicio_Alumnos.csproj.AssemblyReference.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Alumnos\obj\Debug\Ejercicio_Alumnos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Alumnos\obj\Debug\Ejercicio_Alumnos.Form1.resources
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Alumnos\obj\Debug\Ejercicio_Alumnos.Properties.Resources.resources
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Alumnos\obj\Debug\Ejercicio_Alumnos.csproj.GenerateResource.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Alumnos\obj\Debug\Ejercicio_Alumnos.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Alumnos\obj\Debug\Ejercicio_Alumnos.exe
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_1\Ejercicio_Alumnos\obj\Debug\Ejercicio_Alumnos.pdb
