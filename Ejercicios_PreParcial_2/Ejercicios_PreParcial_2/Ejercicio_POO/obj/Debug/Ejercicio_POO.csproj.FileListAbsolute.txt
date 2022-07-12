@@ -1,0 +1,11 @@
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_2\Ejercicios_PreParcial_2\Ejercicio_POO\bin\Debug\Ejercicio_POO.exe.config
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_2\Ejercicios_PreParcial_2\Ejercicio_POO\bin\Debug\Ejercicio_POO.exe
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_2\Ejercicios_PreParcial_2\Ejercicio_POO\bin\Debug\Ejercicio_POO.pdb
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_2\Ejercicios_PreParcial_2\Ejercicio_POO\obj\Debug\Ejercicio_POO.csproj.AssemblyReference.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_2\Ejercicios_PreParcial_2\Ejercicio_POO\obj\Debug\Ejercicio_POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_2\Ejercicios_PreParcial_2\Ejercicio_POO\obj\Debug\Ejercicio_POO.Form1.resources
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_2\Ejercicios_PreParcial_2\Ejercicio_POO\obj\Debug\Ejercicio_POO.Properties.Resources.resources
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_2\Ejercicios_PreParcial_2\Ejercicio_POO\obj\Debug\Ejercicio_POO.csproj.GenerateResource.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_2\Ejercicios_PreParcial_2\Ejercicio_POO\obj\Debug\Ejercicio_POO.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_2\Ejercicios_PreParcial_2\Ejercicio_POO\obj\Debug\Ejercicio_POO.exe
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_2\Ejercicios_PreParcial_2\Ejercicio_POO\obj\Debug\Ejercicio_POO.pdb

@@ -8,3 +8,14 @@ C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\ADO_Conectado\ADO_Conectad
 C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\ADO_Conectado\ADO_Conectado\obj\Debug\ADO_Conectado.csproj.CoreCompileInputs.cache
 C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\ADO_Conectado\ADO_Conectado\obj\Debug\ADO_Conectado.exe
 C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\ADO_Conectado\ADO_Conectado\obj\Debug\ADO_Conectado.pdb
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\ADO_Conectado\ADO_Conectado\bin\Debug\ADO_Conectado.exe.config
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\ADO_Conectado\ADO_Conectado\bin\Debug\ADO_Conectado.exe
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\ADO_Conectado\ADO_Conectado\bin\Debug\ADO_Conectado.pdb
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\ADO_Conectado\ADO_Conectado\obj\Debug\ADO_Conectado.csproj.AssemblyReference.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\ADO_Conectado\ADO_Conectado\obj\Debug\ADO_Conectado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\ADO_Conectado\ADO_Conectado\obj\Debug\ADO_Conectado.Form1.resources
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\ADO_Conectado\ADO_Conectado\obj\Debug\ADO_Conectado.Properties.Resources.resources
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\ADO_Conectado\ADO_Conectado\obj\Debug\ADO_Conectado.csproj.GenerateResource.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\ADO_Conectado\ADO_Conectado\obj\Debug\ADO_Conectado.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\ADO_Conectado\ADO_Conectado\obj\Debug\ADO_Conectado.exe
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\ADO_Conectado\ADO_Conectado\obj\Debug\ADO_Conectado.pdb

@@ -8,3 +8,14 @@ C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\ADO_Desconectado\ADO_Desco
 C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\ADO_Desconectado\ADO_Desconectado\obj\Debug\ADO_Desconectado.csproj.CoreCompileInputs.cache
 C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\ADO_Desconectado\ADO_Desconectado\obj\Debug\ADO_Desconectado.exe
 C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\ADO_Desconectado\ADO_Desconectado\obj\Debug\ADO_Desconectado.pdb
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\ADO_Desconectado\ADO_Desconectado\bin\Debug\ADO_Desconectado.exe.config
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\ADO_Desconectado\ADO_Desconectado\bin\Debug\ADO_Desconectado.exe
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\ADO_Desconectado\ADO_Desconectado\bin\Debug\ADO_Desconectado.pdb
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\ADO_Desconectado\ADO_Desconectado\obj\Debug\ADO_Desconectado.csproj.AssemblyReference.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\ADO_Desconectado\ADO_Desconectado\obj\Debug\ADO_Desconectado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\ADO_Desconectado\ADO_Desconectado\obj\Debug\ADO_Desconectado.Form1.resources
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\ADO_Desconectado\ADO_Desconectado\obj\Debug\ADO_Desconectado.Properties.Resources.resources
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\ADO_Desconectado\ADO_Desconectado\obj\Debug\ADO_Desconectado.csproj.GenerateResource.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\ADO_Desconectado\ADO_Desconectado\obj\Debug\ADO_Desconectado.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\ADO_Desconectado\ADO_Desconectado\obj\Debug\ADO_Desconectado.exe
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\ADO_Desconectado\ADO_Desconectado\obj\Debug\ADO_Desconectado.pdb

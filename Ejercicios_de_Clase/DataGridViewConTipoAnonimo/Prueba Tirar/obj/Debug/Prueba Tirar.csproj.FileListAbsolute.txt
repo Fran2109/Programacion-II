@@ -28,3 +28,14 @@ C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\DataGridViewConTipoAnonimo
 C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\DataGridViewConTipoAnonimo\Prueba Tirar\obj\Debug\Prueba Tirar.csproj.CoreCompileInputs.cache
 C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\DataGridViewConTipoAnonimo\Prueba Tirar\obj\Debug\Prueba Tirar.exe
 C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\DataGridViewConTipoAnonimo\Prueba Tirar\obj\Debug\Prueba Tirar.pdb
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\DataGridViewConTipoAnonimo\Prueba Tirar\bin\Debug\Prueba Tirar.exe.config
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\DataGridViewConTipoAnonimo\Prueba Tirar\bin\Debug\Prueba Tirar.exe
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\DataGridViewConTipoAnonimo\Prueba Tirar\bin\Debug\Prueba Tirar.pdb
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\DataGridViewConTipoAnonimo\Prueba Tirar\obj\Debug\Prueba Tirar.csproj.AssemblyReference.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\DataGridViewConTipoAnonimo\Prueba Tirar\obj\Debug\Prueba Tirar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\DataGridViewConTipoAnonimo\Prueba Tirar\obj\Debug\Prueba_Tirar.Form1.resources
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\DataGridViewConTipoAnonimo\Prueba Tirar\obj\Debug\Prueba_Tirar.Properties.Resources.resources
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\DataGridViewConTipoAnonimo\Prueba Tirar\obj\Debug\Prueba Tirar.csproj.GenerateResource.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\DataGridViewConTipoAnonimo\Prueba Tirar\obj\Debug\Prueba Tirar.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\DataGridViewConTipoAnonimo\Prueba Tirar\obj\Debug\Prueba Tirar.exe
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\DataGridViewConTipoAnonimo\Prueba Tirar\obj\Debug\Prueba Tirar.pdb

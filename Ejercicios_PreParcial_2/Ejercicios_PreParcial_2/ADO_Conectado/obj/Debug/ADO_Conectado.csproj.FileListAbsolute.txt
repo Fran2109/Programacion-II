@@ -1,0 +1,11 @@
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_2\Ejercicios_PreParcial_2\ADO_Conectado\bin\Debug\ADO_Conectado.exe.config
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_2\Ejercicios_PreParcial_2\ADO_Conectado\bin\Debug\ADO_Conectado.exe
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_2\Ejercicios_PreParcial_2\ADO_Conectado\bin\Debug\ADO_Conectado.pdb
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_2\Ejercicios_PreParcial_2\ADO_Conectado\obj\Debug\ADO_Conectado.csproj.AssemblyReference.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_2\Ejercicios_PreParcial_2\ADO_Conectado\obj\Debug\ADO_Conectado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_2\Ejercicios_PreParcial_2\ADO_Conectado\obj\Debug\ADO_Conectado.Form1.resources
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_2\Ejercicios_PreParcial_2\ADO_Conectado\obj\Debug\ADO_Conectado.Properties.Resources.resources
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_2\Ejercicios_PreParcial_2\ADO_Conectado\obj\Debug\ADO_Conectado.csproj.GenerateResource.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_2\Ejercicios_PreParcial_2\ADO_Conectado\obj\Debug\ADO_Conectado.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_2\Ejercicios_PreParcial_2\ADO_Conectado\obj\Debug\ADO_Conectado.exe
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_PreParcial_2\Ejercicios_PreParcial_2\ADO_Conectado\obj\Debug\ADO_Conectado.pdb

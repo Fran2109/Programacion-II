@@ -30,7 +30,7 @@ namespace _1Parcial
         {
             MessageBox.Show(e.Datos);
         }
-            private void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
 
             try
@@ -136,7 +136,16 @@ namespace _1Parcial
         {
             _p = pProducto;
         }
-        public string Datos { get { return $"{_p.Id} {_p.Descripcion} ** Costo: {_p.Costo} ** Fecha de Vto: {_p.FechaVto.ToShortDateString()}"; } }
+        public string Datos 
+        { 
+            get 
+            { 
+                return  $"{_p.Id} " +
+                        $"{_p.Descripcion} ** " +
+                        $"Costo: {_p.Costo} ** " +
+                        $"Fecha de Vto: {_p.FechaVto.ToShortDateString()}"; 
+            } 
+        }
     }
     public abstract class Producto  
     {
@@ -151,9 +160,11 @@ namespace _1Parcial
       
         public void ChequeoVencidos()
         {
-            if (FechaVto < DateTime.Today) Vencidos?.Invoke(this, new VencidosEventArgs(this));
+            if (FechaVto < DateTime.Today)
+            {
+                Vencidos?.Invoke(this, new VencidosEventArgs(this));
+            }
         }
-
     }
     public class ProductoA : Producto
     {

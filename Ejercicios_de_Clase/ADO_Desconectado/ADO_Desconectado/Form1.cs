@@ -39,13 +39,13 @@ namespace ADO_Desconectado
             dataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
             da.Fill(ds);
             ds.Tables[0].PrimaryKey = new DataColumn[] { ds.Tables[0].Columns[0] };
-            button4_Click(null, null);
             dvi = new DataView(ds.Tables[0]);
             dvb = new DataView(ds.Tables[0]);
             dvm = new DataView(ds.Tables[0]);
             dvi.RowStateFilter = DataViewRowState.Added;
             dvb.RowStateFilter = DataViewRowState.Deleted;
             dvm.RowStateFilter = DataViewRowState.ModifiedCurrent;
+            button4_Click(null, null);
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -86,7 +86,6 @@ namespace ADO_Desconectado
                 {
                     (ds.Tables[0].Rows.Find(legajo)).Delete();
                     Refrescar();
-                    
                 }
             }
             catch (Exception ex) { MessageBox.Show(ex.Message); }

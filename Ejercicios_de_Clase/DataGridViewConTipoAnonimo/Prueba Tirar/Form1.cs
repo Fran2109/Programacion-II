@@ -47,7 +47,7 @@ namespace Prueba_Tirar
             //foreach (var z in i) { dg1.Rows.Add(new object[]{z.Nom}) ; }
            //dg1.DataSource = null;
            //dg1.DataSource = i.ToList();
-            dg1.DataSource = (from x in L  select new { Datos = $"{x.Apellido}, {x.Nombre}"}).ToList();
+            dg1.DataSource = (from x in L  select new { Datos = $"{x.Apellido}, {x.Nombre}", Edad = $"{x.Apellido}, {x.Apellido}"}).ToList();
 
 
         }

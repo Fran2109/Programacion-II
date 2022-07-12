@@ -8,3 +8,14 @@ C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\1Parcial\1Parcial\obj\Debu
 C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\1Parcial\1Parcial\obj\Debug\1Parcial.csproj.CoreCompileInputs.cache
 C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\1Parcial\1Parcial\obj\Debug\1Parcial.exe
 C:\Users\Dario Cardacci\source\repos\2022\1C\Cema\PII\1Parcial\1Parcial\obj\Debug\1Parcial.pdb
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\1Parcial\1Parcial\bin\Debug\1Parcial.exe.config
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\1Parcial\1Parcial\bin\Debug\1Parcial.exe
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\1Parcial\1Parcial\bin\Debug\1Parcial.pdb
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\1Parcial\1Parcial\obj\Debug\1Parcial.csproj.AssemblyReference.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\1Parcial\1Parcial\obj\Debug\1Parcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\1Parcial\1Parcial\obj\Debug\_1Parcial.Form1.resources
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\1Parcial\1Parcial\obj\Debug\_1Parcial.Properties.Resources.resources
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\1Parcial\1Parcial\obj\Debug\1Parcial.csproj.GenerateResource.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\1Parcial\1Parcial\obj\Debug\1Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\1Parcial\1Parcial\obj\Debug\1Parcial.exe
+C:\Users\Francisco Filosi\Desktop\Programacion-II\Ejercicios_de_Clase\1Parcial\1Parcial\obj\Debug\1Parcial.pdb
