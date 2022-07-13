@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<Datos>
+  <xs:schema id="Datos" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="Datos" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Cliente">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Legajo" type="xs:int" />
+                <xs:element name="Nombre" type="xs:string" minOccurs="0" />
+                <xs:element name="Apellido" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+      <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//Cliente" />
+        <xs:field xpath="Legajo" />
+      </xs:unique>
+    </xs:element>
+  </xs:schema>
+  <Cliente>
+    <Legajo>1</Legajo>
+    <Nombre>Francisco agustin</Nombre>
+    <Apellido>Filosi</Apellido>
+  </Cliente>
+  <Cliente>
+    <Legajo>2</Legajo>
+    <Nombre>Nicolas</Nombre>
+    <Apellido>Filosi</Apellido>
+  </Cliente>
+  <Cliente>
+    <Legajo>4</Legajo>
+    <Nombre>Osvaldo</Nombre>
+    <Apellido>Filosi</Apellido>
+  </Cliente>
+</Datos>

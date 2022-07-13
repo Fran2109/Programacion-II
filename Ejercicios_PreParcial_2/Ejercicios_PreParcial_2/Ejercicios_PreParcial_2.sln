@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_POO", "Ejercicio_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO_Conectado", "ADO_Conectado\ADO_Conectado.csproj", "{7E73F56B-CA0E-4DCB-8C9E-543F7D6F48B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO_Desconectado", "ADO_Desconectado\ADO_Desconectado.csproj", "{756E4019-5D4B-44DB-AB95-02555852B587}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO_Xml", "ADO_Xml\ADO_Xml.csproj", "{107F9CA7-7801-4A2A-B634-13A7BD953C8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{7E73F56B-CA0E-4DCB-8C9E-543F7D6F48B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E73F56B-CA0E-4DCB-8C9E-543F7D6F48B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E73F56B-CA0E-4DCB-8C9E-543F7D6F48B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{756E4019-5D4B-44DB-AB95-02555852B587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756E4019-5D4B-44DB-AB95-02555852B587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756E4019-5D4B-44DB-AB95-02555852B587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756E4019-5D4B-44DB-AB95-02555852B587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{107F9CA7-7801-4A2A-B634-13A7BD953C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107F9CA7-7801-4A2A-B634-13A7BD953C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107F9CA7-7801-4A2A-B634-13A7BD953C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107F9CA7-7801-4A2A-B634-13A7BD953C8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
